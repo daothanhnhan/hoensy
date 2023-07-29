@@ -1,0 +1,1 @@
+<?php include_once DIR_CART."MS_CART_REM_0006.php";?>

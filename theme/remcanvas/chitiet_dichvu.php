@@ -1,0 +1,1 @@
+<?php include_once DIR_SERVICE."MS_SERVICE_THANHSANG_00022.php";?>

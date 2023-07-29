@@ -1,0 +1,1 @@
+<?php include DIR_FOOTER."MS_FOOTER_REM_0001.php";?>

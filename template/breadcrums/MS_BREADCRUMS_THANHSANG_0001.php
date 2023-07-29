@@ -1,0 +1,11 @@
+<div class="gb-breadcrumbs_naustore">
+    <div class="container">
+        <ul class="breadcrumb">
+            <li><a href="/">Home</a></li>
+            <!-- <li><a href="#">Pictures</a></li> -->
+            <!-- <li><a href="#">Summer 15</a></li> -->
+            <li><?= $title ?></li>
+        </ul>
+
+    </div>
+</div>

@@ -1,0 +1,1 @@
+<?php include_once DIR_REGISTER . "MS_REGISTER_REM_0006.php"; ?>
